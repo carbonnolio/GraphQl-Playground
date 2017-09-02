@@ -1,0 +1,24 @@
+{
+  "name": "graphqlplayground",
+  "version": "1.0.0",
+  "description": "Test project for GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carbonnolio/GraphQl-Playground.git"
+  },
+  "author": "Grigory Novikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carbonnolio/GraphQl-Playground/issues"
+  },
+  "homepage": "https://github.com/carbonnolio/GraphQl-Playground#readme",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "json-schema-faker": "^0.4.3",
+    "json-server": "^0.12.0"
+  }
+}
